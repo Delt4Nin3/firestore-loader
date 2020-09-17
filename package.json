@@ -1,0 +1,16 @@
+{
+  "name": "firestore-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firestore-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["firestore", "argparse", "loader", "import"],
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "firebase-admin": "^9.2.0"
+  }
+}
