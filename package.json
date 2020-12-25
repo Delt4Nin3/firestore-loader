@@ -1,6 +1,6 @@
 {
   "name": "firestore-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "firestore-loader.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "argparse": "^2.0.1",
-    "firebase-admin": "^9.2.0"
+    "firebase-admin": "^9.4.2"
   }
 }
